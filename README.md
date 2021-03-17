@@ -8,6 +8,8 @@
 ![](https://img.shields.io/badge/Editor-AfterEffects-informational?style=flat&logo=Adobe-After-Effects&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&logo=Android-Studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MicrosoftExcel-informational?style=flat&logo=Microsoft-Excel&logoColor=white&color=2bbc8a)
+
 <!--
 **Adhithia/Adhithia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
