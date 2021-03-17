@@ -17,8 +17,8 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 
 
-<img src="https://raw.githubusercontent.com/Adhithia/Adhithia/master/Code.gif" width="30px">
-![til](https://raw.githubusercontent.com/Adhithia/Adhithia/Code.gif)
+<img src="https://raw.githubusercontent.com/Adhithia/Adhithia/main/Code.gif" width="30px">
+![til](https://raw.githubusercontent.com/Adhithia/Adhithia/main/Code.gif)
 
 <!--
 **Adhithia/Adhithia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
