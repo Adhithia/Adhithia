@@ -18,7 +18,7 @@
 
 
 <img src="https://raw.githubusercontent.com/Adhithia/Adhithia/master/Code.gif" width="30px">
-![til](https://raw.githubusercontent.com/Adhithia/Adhithia/master/Code.gif)
+![til](https://raw.githubusercontent.com/Adhithia/Adhithia/Code.gif)
 
 <!--
 **Adhithia/Adhithia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
