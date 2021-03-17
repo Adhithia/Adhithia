@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Adhithia.
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualize-PowerBI-informational?style=flat&logo=Power-BI&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Visualize-Tableau-informational?style=flat&logo=Power-BI&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=2bbc8a)
