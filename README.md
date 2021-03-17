@@ -53,6 +53,9 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithia&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+
+
 <!--END_SECTION:waka-->
 
 <img src="https://github.com/Adhithia/Adhithia/blob/bbb41c2e8618f49546c48a74f2b7f7a8b6b205ba/code.gif" width="950px">
