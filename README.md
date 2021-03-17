@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${Adhithia}.${Adhithia})
 
 <!--
 **Adhithia/Adhithia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
