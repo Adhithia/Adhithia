@@ -1,4 +1,4 @@
-## Hi there 👋 I am Adhithia.    ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Adhithia}.${Adhithia})
+## Hi there 👋 I am Adhithia.   
 ### I am a Data Science professional working with the Business Analytics team of Ashok Leyland.
 ### Just another passionate engineer & thriving analyst with the ability to apply ML techniques and algorithms to solve real world industry problems.
 ### Also pursuing my PGDM from IIIT Bangalore and MS from Liverpool John Moores University in Machine Learning and Artficial Intelligence.
@@ -19,9 +19,7 @@
 ![](https://img.shields.io/badge/Visualize-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 
-
-
-
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Adhithia}.${Adhithia})
 <!--
 **Adhithia/Adhithia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
