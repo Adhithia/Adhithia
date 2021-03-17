@@ -11,6 +11,8 @@
 ![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=Microsoft-Excel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Powerpoint-informational?style=flat&logo=Microsoft-PowerPoint&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-RStudio-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
 
 <!--
 **Adhithia/Adhithia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
