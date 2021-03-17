@@ -16,6 +16,9 @@
 ![](https://img.shields.io/badge/Visualize-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 
+
+<img src="https://raw.githubusercontent.com/Adhithia/Adhithia/master/Code.gif" width="30px">
+
 <!--
 **Adhithia/Adhithia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
