@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Adhithia.
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Visualize-PowerBI-informational?style=flat&logo=Power-BI&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Visualize-Tableau-informational?style=flat&logo=Power-BI&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-Photoshop-informational?style=flat&logo=Photoshop&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Visualize-AfterEffects-informational?style=flat&logo=Adobe-Afte-Effects&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Visualize-PowerBI-informational?style=flat&logo=Power-BI&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Visualize-Tableau-informational?style=flat&logo=Power-BI&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-AfterEffects-informational?style=flat&logo=Adobe-After-Effects&logoColor=white&color=2bbc8a)
 <!--
 **Adhithia/Adhithia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
