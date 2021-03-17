@@ -19,7 +19,7 @@ jobs:
     # The type of runner that the job will run on
     runs-on: windows-latest
     steps:
-      - uses: Adhithia/Adhithia@master
+      - uses: Adhithia/Adhithia@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
