@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Adhithia.
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python2&logoColor=white&color=2bbc8a)
 <!--
 **Adhithia/Adhithia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
