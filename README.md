@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 
 
-<img src="https://github.com/Adhithia/Adhithia/blob/bbb41c2e8618f49546c48a74f2b7f7a8b6b205ba/code.gif" width="900px">
+<img src="https://github.com/Adhithia/Adhithia/blob/bbb41c2e8618f49546c48a74f2b7f7a8b6b205ba/code.gif" width="900px" height="400px">
 ![til](https://raw.githubusercontent.com/Adhithia/Adhithia/main/Code.gif)
 
 <!--
