@@ -20,24 +20,16 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Adhithia}.${Adhithia})
-<!--
-**Adhithia/Adhithia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🔭 I’m currently working on **Building a Segment level Customer Churn Prediction Algorithm for an Automobile Company**.
+- 🌱 I’m currently learning **Regularization in Machine Learning**.
+- 👯 I’m looking to collaborate on **Kaggle projects**.
+- 🤔 I’m looking for help with **Forecast Models**.
+- 💡 I'm interested in all things data: Statistics, Machine Learning, Artificial Intelligence and Data Science.
+- 💬 Ask me about **Statistical Modelling, Python Coding, Excel and life too!**
+- 📫 How to reach me: **adhithia@gmail.com** or [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+- ⚡ Fun fact: I bet you can't find another person with his name spelt exactly like mine.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- Actual text -->
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
