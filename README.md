@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Adhithia.
-### Experienced Data Science Professional with proven success in building successful algorithms & predictive models. Highly adept at data analysis & visualization. Passionate engineer & thriving analyst with the ability to apply ML techniques and algorithms to solve real world industry problems.
-### Currently working with the Business Analytics team of Ashok Leyland.
+### I am a Data Science professional working with the Business Analytics team of Ashok Leyland.
+### Just another passionate engineer & thriving analyst with the ability to apply ML techniques and algorithms to solve real world industry problems.
 ### Also pursuing my PGDM from IIIT Bangalore and MS from Liverpool John Moores University in Machine Learning and Artficial Intelligence.
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
