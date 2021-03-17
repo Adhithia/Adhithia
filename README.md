@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 
 
-<img src="https://github.com/Adhithia/Adhithia/blob/bbb41c2e8618f49546c48a74f2b7f7a8b6b205ba/code.gif">
+
 
 <!--
 **Adhithia/Adhithia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,5 +35,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Actual text -->
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+<!-- Icons -->
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/AdhithiaR
+[2]: https://www.linkedin.com/in/adhithiar/
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adhithia&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithia&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github.com/Adhithia/Adhithia/blob/bbb41c2e8618f49546c48a74f2b7f7a8b6b205ba/code.gif">
