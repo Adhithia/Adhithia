@@ -24,7 +24,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Adhithia}.${Adhithia})
 
 - 🔭 I’m currently working on **Building a Segment level Customer Churn Prediction Algorithm for an Automobile Company**.
-- 🌱 I’m currently learning **Regularization in Machine Learning**.
+- 🌱 I’m currently learning **Natural Language Processing**.
 - 👯 I’m looking to collaborate on **Kaggle projects**.
 - 🤔 I’m looking for help with **Forecast Models**.
 - 💡 I'm interested in all things data: Statistics, Machine Learning, Artificial Intelligence and Data Science.
